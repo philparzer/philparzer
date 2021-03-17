@@ -1,5 +1,5 @@
 ## Hey, I'm Phil
-- student @UniversityOfInnsbruck
+- student at the University of Innsbruck
 - currently focusing on **3D game development** using **Unity**
 - want to improve my skills in **C#**, **Python** and **C++**
 - looking for people to **collaborate** with and **learn** from
