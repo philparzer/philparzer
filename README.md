@@ -4,7 +4,7 @@
 - looking for people to **collaborate** with and **learn** from
  
                 
-## Contact
+## Get in touch
  https://twitter.com/philipp_parzer
  > this is the way
  
