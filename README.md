@@ -5,8 +5,6 @@
  
                 
 ## Get in touch
- https://twitter.com/philipp_parzer
- > this is the way
  
  https://discord.gg/yqFYMjptP8 
  > for casual conversations
