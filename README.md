@@ -2,7 +2,7 @@
 - student at the University of Innsbruck
 - current interests: **3D game development**, **NLP**, **Full-Stack**
 - want to improve my skills in **C#**, **Python**, **C++**
-- looking for people to **collaborate** with and **learn** from
+- looking for people to collaborate with and learn from
  
                 
 ## Get in touch
