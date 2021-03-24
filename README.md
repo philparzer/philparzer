@@ -1,6 +1,6 @@
 ## Hey, I'm Phil
 - student at the University of Innsbruck
-- currently focusing on **NLP**, **3D game development**
+- current interests: **3D game development**, **NLP**, **Full-Stack**
 - want to improve my skills in **C#**, **Python**, **C++**
 - looking for people to **collaborate** with and **learn** from
  
