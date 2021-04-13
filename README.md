@@ -1,7 +1,7 @@
 ## Hey, I'm Phil
 - postgrad at the University of Innsbruck
-- current interests: **3D game development**, **NLP**, **Full-Stack**
-- want to improve my skills in **C#**, **Python**, **C++**, **JS**
+- current interests: **3D game development**, **NLP**
+- want to improve my skills in **C#**, **Python**, **C++**
 - looking for people to collaborate with and learn from
  
                 
