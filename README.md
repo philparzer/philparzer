@@ -4,7 +4,7 @@
  postgrad at the University of Innsbruck
 
 &nbsp;
-
+---
 TECHNOLOGIES | PROFICIENCY
 | :------------ | :-------------- |
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)| ![proficiency=proficient](https://raw.githubusercontent.com/philparzer/philparzer/5715296876e74bcf3257e6e981de261d92530291/img/proficient.svg)|
@@ -17,7 +17,7 @@ UI/UX/ANIMATION | PROFICIENCY
 | :------------ | :-------------- |
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)| ![proficiency=proficient](https://raw.githubusercontent.com/philparzer/philparzer/5715296876e74bcf3257e6e981de261d92530291/img/proficient.svg)|
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)| ![proficiency=minor](https://raw.githubusercontent.com/philparzer/philparzer/5715296876e74bcf3257e6e981de261d92530291/img/minor.svg)|
-
+---
 &nbsp;
 
 ## Get in touch:
