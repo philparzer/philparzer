@@ -1,7 +1,7 @@
 ## Hey👋 I'm Phil
  looking for someone to collaborate with and learn from
  
- postgrad at the University of Innsbruck
+ currently postgrad at the University of Innsbruck
 
 &nbsp;
 
