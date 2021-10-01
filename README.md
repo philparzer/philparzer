@@ -1,8 +1,8 @@
 ## Hey, I'm Phil
 - looking for people to collaborate with and learn from
 - postgrad at the University of Innsbruck
-\
-\
+
+
 TECHNOLOGIES | PROFICIENCY
 | :------------ | :-------------- |
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)| ![proficiency=proficient](https://raw.githubusercontent.com/philparzer/philparzer/5715296876e74bcf3257e6e981de261d92530291/img/proficient.svg)|
