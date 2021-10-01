@@ -12,6 +12,11 @@ TECHNOLOGIES | PROFICIENCY
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)| ![proficiency=mediocre](https://raw.githubusercontent.com/philparzer/philparzer/9eb32b798ba380b05d8603626a8eaa4936fad5f6/img/mediocre.svg)|
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)| ![proficiency=mediocre](https://raw.githubusercontent.com/philparzer/philparzer/9eb32b798ba380b05d8603626a8eaa4936fad5f6/img/mediocre.svg)|
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)| ![proficiency=minor](https://raw.githubusercontent.com/philparzer/philparzer/5715296876e74bcf3257e6e981de261d92530291/img/minor.svg)|
+---
+
+| :------------ | :-------------- |
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)| ![proficiency=proficient]
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)| ![proficiency=minor]
 
 &nbsp;
 
