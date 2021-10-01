@@ -1,6 +1,7 @@
 ## Hey👋 I'm Phil
-- looking for someone to collaborate with and learn from
-- postgrad at the University of Innsbruck
+ looking for someone to collaborate with and learn from
+ 
+ postgrad at the University of Innsbruck
 
 &nbsp;
 
@@ -16,7 +17,7 @@ TECHNOLOGIES | PROFICIENCY
 
 ## Get in touch:
  
- https://discord.gg/yqFYMjptP8 
+ https://discord.com/invite/FzhmcmfQEZ
  
  phil0898.pp@gmail.com
 
