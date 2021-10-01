@@ -14,7 +14,7 @@ TECHNOLOGIES | PROFICIENCY
 
 &nbsp;
 
-## Get in touch:
+### Get in touch:
  
  https://discord.gg/yqFYMjptP8 
  phil0898.pp@gmail.com
