@@ -1,9 +1,5 @@
 ## Hey👋 I'm Phil
-- postgrad at the University of Innsbruck
-- full stack at <a href="https://www.wearemomentum.at/">Momentum</a>
-
-## Get in touch:
- https://discord.com/invite/FzhmcmfQEZ
+https://discord.com/invite/FzhmcmfQEZ
 
 
 <!---
