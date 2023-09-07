@@ -1,5 +1,5 @@
 ## Hey👋 I'm Phil
-https://discord.com/invite/FzhmcmfQEZ
+my projects are all over the place
 
 
 <!---
