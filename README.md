@@ -1,5 +1,5 @@
-## Hey👋 I'm Phil
-my projects are all over the place
+<code>hi, I'm Phil, co-founder <a hreF="https://adlerlagune.com">@adlerlagune</a>
+my projects are all over the place</code>
 
 
 <!---
