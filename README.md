@@ -1,5 +1,5 @@
-<code>hi, I'm Phil, co-founder <a hreF="https://adlerlagune.com">@adlerlagune</a>
-my projects are all over the place</code>
+<div><code>hi, I'm Phil, co-founder <a hreF="https://adlerlagune.com">@adlerlagune</a></code></div>
+<div><code>my projects are all over the place</code></div>
 
 
 <!---
