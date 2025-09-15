@@ -1,4 +1,4 @@
-<div><code>hi, I'm Phil, co-founder <a hreF="https://adlerlagune.com">@adlerlagune</a></code></div>
+<div><code>hi, I'm Phil, co-founder and design engineer <a hreF="https://adler.studio">@adler.studio</a></code></div>
 
 
 <!---
